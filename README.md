@@ -24,7 +24,7 @@
 🎓 **B.Tech Computer Science Engineering** with **AI/ML Specialization**  
 📍 UPES, Dehradun (2023-2027) | **CGPA: 7.3**  
 💼 **Chief Technology Officer** at **Venture Launcher**  
-🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Full-Stack Development**  
+🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Block Chain**  
 🌟 Leading AI architecture for investor-startup matchmaking platforms  
 📈 Experienced in mentoring technical teams and product strategy  
 
