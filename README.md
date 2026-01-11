@@ -1,6 +1,5 @@
-
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Anurag+Pandey+%F0%9F%91%8B;Machine+Learning+Intern;Deep+Learning+Enthusiast;Working+on+ML+%26+DL+Projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&pause=1000&color=00D9FF&center=true&vCenter=true&width=650&lines=Hi+there%2C+I'm+Anurag+Pandey+%F0%9F%91%8B;AIML+Intern;Deep+Learning+Enthusiast;Working+on+ML+%26+DL+Projects" alt="Typing SVG" />
 </div>
 
 <div align="center">
@@ -22,11 +21,11 @@
 <img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif">
 
 🎓 **B.Tech Computer Science Engineering** with **AI/ML Specialization**  
-📍 UPES, Dehradun (2023-2027) | **CGPA: 7.3**  
-💼 **Chief Technology Officer** at **Venture Launcher**  
-🤖 Passionate about **Artificial Intelligence**, **Machine Learning**, and **Block Chain**  
-🌟 Leading AI architecture for investor-startup matchmaking platforms  
-📈 Experienced in mentoring technical teams and product strategy  
+📍 UPES, Dehradun  
+💼 **AIML Intern** at **Notebrains** (Paid)  
+🤖 Passionate about **Artificial Intelligence** and **Machine Learning**  
+🌟 Working on ML/DL model development and experimentation  
+📈 Experienced in data preprocessing and model evaluation  
 
 <br clear="right"/>
 
@@ -52,7 +51,6 @@
 ### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![Power BI](https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=Power%20BI&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
 
 </div>
@@ -65,19 +63,19 @@
   <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
 </div>
 
-### 🚀 Chief Technology Officer - Venture Launcher
-**July 2025 - Present | Remote**
-- 🏗️ **Leading AI Architecture** for investor-startup matchmaking platform
-- 👥 **Mentoring Technical Teams** and overseeing community feature rollouts  
-- 📊 **Product Strategy** - Managing roadmap and technical decision-making
-- 🌐 **Full-Stack Leadership** - Overseeing end-to-end development processes
+### 🤖 AIML Intern - Notebrains  
+**Paid Industry Internship | Remote**
+- 🧠 **Applied Machine Learning** - Working on real-world ML tasks and model development
+- 📊 **Data Processing** - Performing data preprocessing and feature experimentation
+- 📈 **Model Evaluation** - Gaining hands-on experience with model testing and validation
+- 🎯 **Practical Experience** - Building skills with real-world datasets and problems
 
-### 🤖 AI Intern - Group Lead - Venture Launcher  
-**June - July 2025 | Remote**
-- 🧠 **Built & Deployed ML Models** for intelligent investor matching
-- 📋 **Sprint Management** - Led technical planning and cross-functional coordination
-- 📈 **Performance Tracking** - Weekly progress reporting to leadership
-- 🎯 **Project Delivery** - Ensured timely completion of all deliverables
+### 🚀 Founding Engineer (Early-stage, Pre-product) - Venture Launcher
+**Remote**
+- 🏗️ **ML Model Development** - Working on experimental ML-based matching systems
+- 🔬 **Technical Feasibility** - Collaborating on early design and prototyping
+- 📊 **Feature Experimentation** - Involved in data preprocessing and feature engineering
+- 🌐 **Early-stage Development** - Contributing to prototype-level implementation
 
 ---
 
@@ -87,10 +85,10 @@
 <div align="left">
   
 **🔧 Tech Stack:** Python | NLP | Machine Learning | Backend Integration
-- 🤖 **AI-Powered Matching** - Developing intelligent system to connect startups with relevant investors
-- 🧮 **NLP & Scoring Logic** - Implementing advanced compatibility analysis algorithms
-- 🌐 **Community Features** - Building interactive engagement platform for users
-- 📊 **Real-time Analytics** - Performance tracking and optimization systems
+- 🤖 **Experimental Matching Logic** - Building prototype ML model for startup-investor connections
+- 🧮 **Scoring Algorithm** - Implementing experimental compatibility scoring system
+- 🔬 **Model Experimentation** - Testing different approaches for feature matching
+- 📊 **Prototype Development** - Early-stage implementation and evaluation
 
 </div>
 
@@ -98,10 +96,10 @@
 <div align="left">
 
 **🔧 Tech Stack:** Python | Machine Learning | Web Development | Data Analytics
-- 🧠 **Calorie Prediction ML** - Smart models using age, gender, and BMI data
-- 🍎 **Food Recommendation Engine** - Personalized dietary suggestion system
-- 📱 **Responsive Dashboard** - Comprehensive fitness tracking web interface
-- 📈 **Health Analytics** - Advanced metrics and progress visualization
+- 🧠 **Calorie Prediction Model** - ML model using age, gender, and BMI features
+- 🍎 **Food Recommendation System** - Building personalized dietary suggestion engine
+- 📱 **Web Interface** - Developing fitness tracking dashboard
+- 📈 **Health Metrics** - Implementing progress visualization features
 
 </div>
 
@@ -109,10 +107,10 @@
 <div align="left">
 
 **🔧 Tech Stack:** Python | Machine Learning | Backend | UI Integration
-- 📉 **Churn Prediction Model** - Behavioral pattern analysis for user retention
-- 🎬 **Cinema Recommendation** - Movie suggestions using viewing history & trends  
-- 🔄 **Real-time Testing** - Live interface for model output visualization
-- 🎯 **Dual-Model Architecture** - Seamlessly integrated prediction systems
+- 📉 **Churn Prediction** - Built model for user retention analysis
+- 🎬 **Movie Recommendations** - Developed recommendation system based on viewing patterns
+- 🔄 **Interactive Testing** - Created interface for model output visualization
+- 🎯 **Dual-Model System** - Integrated two ML models in single platform
 
 </div>
 
@@ -120,10 +118,10 @@
 <div align="left">
 
 **🔧 Tech Stack:** Java | MySQL | Java Swing | UI/UX Design
-- 🔐 **Secure Authentication** - User login and profile management system
-- 🗺️ **Location Intelligence** - Tourist information and city navigation features
-- 🚌 **Transport Integration** - Real-time fare and route information
-- 🏨 **Service Directory** - Hotels, malls, and local business listings
+- 🔐 **User Authentication** - Built login and profile management system
+- 🗺️ **Location Features** - Implemented tourist information and navigation
+- 🚌 **Transport Information** - Integrated fare and route lookup features
+- 🏨 **Business Directory** - Created listings for hotels and local services
 
 </div>
 
@@ -141,12 +139,6 @@
 - 🏅 **Certificate of Appreciation** - Outstanding contribution recognition
 - 👥 **Community Building** - Fostering coding culture and technical excellence
 
-### 👨‍💼 Technical Leadership Experience
-- 🚀 **Team Leadership** - Led technical teams during multiple AI internships
-- 📋 **Project Coordination** - AI model planning and full-stack development management  
-- ⚡ **Sprint Management** - Agile methodologies and cross-functional collaboration
-- 📊 **Strategic Planning** - Technical roadmap development and execution
-
 ---
 
 ## 📊 GitHub Statistics
@@ -161,8 +153,6 @@
        alt="GitHub Streak" width="600" />
 </div>
 
-
-
 ---
 
 ## 🎯 Current Focus
@@ -171,11 +161,10 @@
   <img src="https://user-images.githubusercontent.com/74038190/212257472-08e52665-c503-4bd9-aa20-f5a4dae769b5.gif" width="400">
 </div>
 
-- 🚀 **Leading AI Innovation** at Venture Launcher
-- 🤖 **Advanced ML Models** for startup-investor matching
-- 🌐 **Full-Stack Architecture** design and implementation  
-- 👥 **Team Mentorship** and technical leadership development
-- 📚 **Continuous Learning** in cutting-edge AI technologies
+- 🚀 **Building ML/DL Models** for real-world applications
+- 🤖 **Strengthening Fundamentals** in applied AI and machine learning
+- 🌐 **Prototype Development** for early-stage projects
+- 📚 **Continuous Learning** in AI/ML technologies and best practices
 
 ---
 
@@ -191,7 +180,7 @@
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=181717)](https://github.com/AnuragPandey19)
 [![Email](https://img.shields.io/badge/-Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=D14836)](mailto:anuragpandeygct@gmail.com)
 
-**💡 Open to collaboration on AI/ML projects and innovative tech solutions!**
+**💡 Open to collaboration on AI/ML projects and learning opportunities!**
 
 </div>
 
@@ -200,5 +189,5 @@
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&width=100%"/>
   
-  **⭐️ From [Anurag Pandey](https://github.com/AnuragPandey19) | Building the Future with AI 🚀**
+  **⭐️ From [Anurag Pandey](https://github.com/AnuragPandey19) | Building with AI & ML 🚀**
 </div>
