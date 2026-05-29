@@ -51,7 +51,6 @@ Building end-to-end ML systems — from training ensemble models to deploying th
 ![XGBoost](https://img.shields.io/badge/XGBoost-337AB7?style=for-the-badge)
 ![pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![ONNX](https://img.shields.io/badge/ONNX-005CED?style=for-the-badge&logo=onnx&logoColor=white)
 
 **Backend & Databases**
 
