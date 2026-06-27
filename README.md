@@ -76,7 +76,7 @@ Chrome extension + FastAPI backend running 4 ML models in parallel to detect XSS
 
 **Tech:** Python · FastAPI · XGBoost · Autoencoder · Isolation Forest · Chrome Extension (Manifest V3) · SHAP
 
-➜ [Repository](https://github.com/AnuragPandey19/SurfVigil) · [Live Site](https://surfvigil.com/)
+➜ [Repository](https://github.com/AnuragPandey19/SurfVigil) · [Live Site](https://surfvigil.com/) · [Download Link](https://chromewebstore.google.com/detail/surfvigil/glalkjnmdnblfobilebjkelocclcojcn)
 
 ---
 
